@@ -1,0 +1,13 @@
+{
+  "name": "ai-performance-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI사업단 자율성과지표 성과관리 대시보드 (Netlify 배포용)",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^11.1.4"
+  }
+}
